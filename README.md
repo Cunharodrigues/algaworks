@@ -1,5 +1,5 @@
 # Sistema Entrega "Delivery"
-#Utilizando:
+Utilizando:
 * Spring Tools 4 for Eclipse
 * Lombok
 * Postman App
