@@ -6,6 +6,10 @@ Utilizando:
 * BD MySQL Server
 * MySQL Workbench 8.0
 * Flyway 8.4.1 versinamento do BD
+* Jakarta Persistence
+
+#Link Collection Postman
+https://www.postman.com/collections/330316dcf98fa79db764
 
 # Diagrama
 ![11](https://user-images.githubusercontent.com/30321724/149671318-b393fb8b-2261-4fbc-8fee-a20fec7fcb3f.PNG)
